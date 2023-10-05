@@ -111,7 +111,7 @@
   display: flex;
   justify-content: end;
   align-items: center;
-  gap: 78px;  
+  gap: 78px;
 }
 
 .cover__description-text {
@@ -207,11 +207,11 @@
   font-weight: 700;
   line-height: 1.2;
   text-decoration-line: underline;
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 .card__text {
-  font-size: 20px; 
+  font-size: 20px;
   line-height: 1.2;
 }
 
